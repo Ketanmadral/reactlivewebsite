@@ -1,0 +1,20 @@
+{
+  "users": [
+    {
+      "name": "harish mateti",
+      "username": "harshya",
+      "email": "harishmateti6@gmail.com",
+      "phone": "08484993400",
+      "website": "harish123.com",
+      "id": 1
+    },
+    {
+      "name": "ketan madral",
+      "username": "ketya",
+      "email": "madralketan@gmail.com",
+      "phone": "7756943128",
+      "website": "ketan123.com",
+      "id": 2
+    }
+  ]
+}
